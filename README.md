@@ -1,2 +1,2 @@
-# dot-text-editor
-dot, minimal text editor. heavily inspired by vim.
+# dot Text Editor
+dot - a minimal text editor. Heavily inspired by vim.
